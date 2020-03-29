@@ -382,9 +382,5 @@
   </style>
   ```
 
-
-
-> 미션 인증샷~~~~😄
->
-> ![스크린샷](https://github.com/eunzzangoo/TIL/blob/master/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4_%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%8B%A4%EC%A0%84/Week_01/스크린샷 2020-03-29 오후 9.04.22.png)
+>> 미션 인증샷 https://github.com/eunzzangoo/TIL/issues/1
 
