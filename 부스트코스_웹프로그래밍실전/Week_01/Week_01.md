@@ -382,5 +382,6 @@
   </style>
   ```
 
->> 미션 인증샷 https://github.com/eunzzangoo/TIL/issues/1
+> 미션 인증샷 
+![스크린샷](https://github.com/eunzzangoo/TIL/issues/1)
 
